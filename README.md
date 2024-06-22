@@ -1,2 +1,1 @@
-# hola-mundo
-Arq. y Sist. Op
+# Prueba de repositorio remoto - Fundamentos de la Programación 1
